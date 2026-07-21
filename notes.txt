@@ -1,4 +1,9 @@
 I must study hard
 Today i will study maths
+<<<<<<< HEAD
 i am studying english now
 version A from feature branch
+=======
+i am studying afrikaans
+Version B from main
+>>>>>>> main
