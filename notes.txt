@@ -4,3 +4,4 @@ i am studying english now
 version A from feature branch
 i am studying afrikaans
 Version B from main
+i am going to school
